@@ -8,7 +8,7 @@ x-api-key: 8e05d393dae4a061fd571aa997f50c80c8e393993a5f20ac59a5ee1d8443405645773
 
 {
     
-    "name": "first user",
-    "email": "firstuser1@gmail.com",
+    "name": "test admin",
+    "email": "admin7@gmail.com",
     "password": "123123"
 }
